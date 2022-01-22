@@ -23,3 +23,10 @@ The model is doing well on long sentences
 While on short sentences there are some misses
 
 ![image](img/short_result.png)
+
+
+## Contributors
+1. Rohit Agarwal
+2. Kushal Gandhi
+3. Vivek Kumar
+4. Ammishaddai U
