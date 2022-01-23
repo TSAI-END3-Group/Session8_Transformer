@@ -13,6 +13,9 @@ So the model is trained with 101882 pairs
 ![image](img/training_log.png)
 
 
+#### Test loss
+![image](img/test_loss.png)
+
 
 ## Results
 
